@@ -4,6 +4,12 @@
   font-family: Georgia;
 }*/
 
+body {
+  background: WhiteSmoke;
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   color: MidnightBlue;
 /*  background-color: SeaGreen; */
