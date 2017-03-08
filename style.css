@@ -1,12 +1,33 @@
-    * {
-  font-family: 'Georgia', 'Times', serif;
-}
+/* Styling */
+
+/** {
+  font-family: Georgia;
+}*/
 
 h1 {
-  color: Blue;
-  font-size; 32px
+  color: MidnightBlue;
+  background-color: SeaGreen;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+p {
+  font-size: 18px;
+  font-family: Georgia;
+  color: Black;
 }
 
 img {
   border-radius: 100%;
+}
+
+.header {
+  background-image: url("profilepic.jpeg");
+  height: 400px;
+  background-position: center center;
 }
